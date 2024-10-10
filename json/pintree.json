@@ -3727,27 +3727,6 @@
             "url": "https://mirrors.edge.kernel.org/pub/"
           }
         ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1711081268884,
-        "title": "娱乐",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1711081234338,
-            "title": "6v电影-新版",
-            "icon": "https://logo.clearbit.com/www.66s6.cc",
-            "url": "https://www.66s6.cc/"
-          },
-          {
-            "type": "link",
-            "addDate": 1724419876606,
-            "title": "三国杀OL_十周年，经典怀旧国服",
-            "icon": "https://logo.clearbit.com/web.sanguosha.com",
-            "url": "https://web.sanguosha.com/login/index.html"
-          }
-        ]
       }
     ]
   }
