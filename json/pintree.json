@@ -1957,6 +1957,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1591935003700,
+            "title": "vuedraggable",
+            "icon": "https://logo.clearbit.com/sortablejs.github.io",
+            "url": "https://sortablejs.github.io/vue.draggable.next/#/simple"
+          },
+          {
+            "type": "link",
             "addDate": 1591935002700,
             "title": "小程序开放的服务类目 | 微信开放文档",
             "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
